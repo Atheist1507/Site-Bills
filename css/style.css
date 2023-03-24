@@ -1,0 +1,62 @@
+body {
+    margin:0;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 0;
+}
+
+
+
+.top-container {
+    background-color: #66BFBF;
+    position:relative;
+    margin: 0;
+    padding-top: 100px;
+}
+
+.billpic {
+    border-radius: 50%;
+    width: 176px;
+    height: 176px;
+    border:solid;
+}
+
+.top-cloud {
+    position:absolute;
+    right:650px;
+    bottom: 450px;
+}
+
+.bot-cloud {
+    position:absolute;
+}
+
+.piano-picture {
+    border-radius: 50%;
+    width: 176px;
+    height: 176px;
+    border:solid;
+   
+}
+
+.rhythm-game {
+    border-radius: 50%;
+    width: 176px;
+    height: 176px;
+    border:solid;
+}
+
+.middle-container {
+    background-color: white;
+}
+
+.bottom-container {
+    background-color: white;
+}
+
+.contact-me {
+    background-color: white;
+}
